@@ -79,6 +79,3 @@ The system manages:
 1. Open **MySQL Workbench** or your preferred MySQL client
 2. Copy and execute the contents of `library_management.sql`
 3. Use the included queries to interact with the data
-
----
-# -Library-Management-Database
